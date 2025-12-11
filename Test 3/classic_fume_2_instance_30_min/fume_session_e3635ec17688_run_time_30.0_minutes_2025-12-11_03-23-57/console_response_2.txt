@@ -1,0 +1,1 @@
+1765423438: Protocol error from auto-6BE9443D-DD4C-86F6-62FE-D5CF71B71E3B: password without username, closing connection.
